@@ -1,2 +1,2 @@
-# wcrack.github.io
-study git
+#业余编程折腾者-wcrack
+这里只用来记录一些折腾过的有意思的代码
